@@ -20,9 +20,13 @@ An offline chatbot powered by Meta’s LLaMA 3, built using [Ollama](https://oll
 ### 1. Install Ollama
 Download from: [https://ollama.com/download](https://ollama.com/download)
 
+
+---
+
+### ✅ With this corrected version below:
+
+```markdown
 Pull the model:
+
 ```bash
 ollama run llama3
-
-git clone https://github.com/nikithamatta12/llama3.git
-cd llama3
