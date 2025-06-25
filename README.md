@@ -23,7 +23,7 @@ Download from: [https://ollama.com/download](https://ollama.com/download)
 
 ---
 
-### ✅ With this corrected version below:
+
 
 ```markdown
 Pull the model:
