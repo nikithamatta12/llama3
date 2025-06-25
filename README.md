@@ -30,3 +30,7 @@ Pull the model:
 
 ```bash
 ollama run llama3
+git clone https://github.com/nikithamatta12/llama3.git
+cd llama3
+pip install -r requirements.txt
+streamlit run app_ui.py
